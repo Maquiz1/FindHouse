@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.grandetest.com	TRUE	/	FALSE	1999999999	__cfduid	dd31c921ee1cc8c5008af4b88b1da220d1620208704
+grandetest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
